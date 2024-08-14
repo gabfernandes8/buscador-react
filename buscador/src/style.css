@@ -7,6 +7,12 @@
     background: linear-gradient(#b866ff, #332559);
 }
 
+img{
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+}
+
 .title{
     font-size: 85px;
     color: white;
